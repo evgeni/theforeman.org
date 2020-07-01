@@ -139,7 +139,7 @@ th.underlined {
   margin-right: 15px;
   top: 0;
   z-index: 1;
-  background: url("../images/pattern/hexagons.png") repeat;
+  background: url("/static/images/pattern/hexagons.png") repeat;
 }
 .overlay-aqua,
 #page-header:before {
@@ -169,11 +169,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d9d216', end
 }
 
 .features {
-  background: url("../images/ecailles.png") scroll 50% 0px transparent;
+  background: url("/static/images/ecailles.png") scroll 50% 0px transparent;
 }
 
 .screenshots {
-  background: url("../images/struckaxiom.png") scroll 50% 0px transparent;
+  background: url("/static/images/struckaxiom.png") scroll 50% 0px transparent;
 	padding: 20px 0;
 }
 
@@ -769,7 +769,7 @@ iframe:not([allowtransparency]){
 }
 
 #home {
-	background: url("../images/struckaxiom.png") scroll 50% 0px transparent;
+	background: url("/static/images/struckaxiom.png") scroll 50% 0px transparent;
 	height: 100%;
 	margin: 0 auto;
 	width: 100%;
